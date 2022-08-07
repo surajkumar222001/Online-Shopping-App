@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 10px;
+    background-color: 	#E0FFFF;
+}
+.landing-page{
+    background: white url("./assets/pexels-pixabay-264636.jpg") no-repeat scroll center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.wrapper {
+    background: rgba(0,0,0,0.8);
+    height: 100%;
+}
+
+.sec {
+
+}
+
+
+
